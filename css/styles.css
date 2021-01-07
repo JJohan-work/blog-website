@@ -1,0 +1,19 @@
+.blog > div {
+  border: 5px solid burlywood;
+  background-color: blanchedalmond;
+  border-radius: 50px;
+  text-align: center;
+  height: 50vh;
+}
+
+.blog {
+  overflow: scroll;
+  max-height: 80vh;
+  border: 5px solid green;
+  border-radius: 50px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
